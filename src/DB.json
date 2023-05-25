@@ -1,0 +1,54 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"sumsung M 40",
+            "color":"black",
+            "price":15000,
+            "category":"moblie",
+            "brand":"samsung",
+            "photo":"https://3oodycambody.com/wp-content/uploads/2022/10/dummy-product-09-247x250.jpg"
+        },
+
+        {
+            "id":2,
+            "name":"lilies",
+            "color":"pink",
+            "price":500,
+            "category":"Flower",
+            "brand":"Fiorella",
+            "photo":"https://fiorellaindia.com/wp-content/uploads/2021/02/Round-Series.jpeg"
+            
+        },
+
+        {
+            "id":3,
+            "name":"T-shirt",
+            "color":"Peach",
+            "price":350,
+            "category":"T-shirt",
+            "brand":"AUSK",
+            "photo":"https://assets.ajio.com/medias/sys_master/root/20220225/Svcr/6218ece1aeb26921afb7f6af/-1117Wx1400H-463897470-peach-MODEL.jpg"
+        },
+        {
+                "id":4,
+                "name":"T-shirt",
+                "color":"Maroon",
+                "price":450,
+                "category":"T-shirt",
+                "brand":"Flip-cart",
+                "photo":"https://rukminim1.flixcart.com/image/832/832/l2arp8w0/shopsy-t-shirt/s/3/0/s-nmp-try-this-original-imag5xe3sdhgg8sg.jpeg?q=70"
+            
+        },
+        {
+            "id":5,
+            "name":"Sport Shoes",
+            "color":"White",
+            "price":3000,
+            "category":"Sport-Shoes",
+            "brand":"Bata",
+            "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4OvTTjjdIbmxZBAWDqLX9Sd-UOOlksxFlpA&usqp=CAU"
+        
+    }
+    ]    
+}
